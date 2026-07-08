@@ -1,3 +1,5 @@
 // Variables 
 const carrito = document.querySelector('#carrito')
-const 
+const contenedorCarrito = document.querySelector('#lista-carrito tbody')
+const vaciarCarrito = document.querySelector('#vaciar-carrito')
+const listaCursos = document.querySelector('#lista-cursos')
